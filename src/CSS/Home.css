@@ -1,0 +1,14 @@
+.Home{
+    top:0px;
+   margin:10%;
+   width:300px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.card_img{
+    margin-left: 12px;
+    height:250px;
+    max-width: 270px;
+    max-height: 270px;
+}
